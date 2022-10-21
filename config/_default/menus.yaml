@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 主页
-    url: 'blog.vastcosmic.cn'
+  - name: Home
+    url: '#about'
     weight: 10
-  - name: 泠音NAS初号机
-    url: 'cloud.vastcosmic.cn'
+  - name: Ports
+    url: '#ports'
     weight: 20
   - name: Projects
     url: '#projects'
