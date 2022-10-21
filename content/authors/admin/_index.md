@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Vast Cosmic
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Vast
+last_name: Cosmic
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,8 +14,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Ocean University of China
+    url: http://www.ouc.edu.cn/main.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
